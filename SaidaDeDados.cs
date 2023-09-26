@@ -1,13 +1,10 @@
 using System;
 
-namespace MeuProjeto
-{
+namespace MeuProjeto{
 
-	class Program
-	{
+	class Program{
 
-		static void Main(String[] args)
-		{
+		static void Main(String[] args) {
 
 			//Variaveis
 
@@ -16,7 +13,7 @@ namespace MeuProjeto
 			char sexo = 'M';
 			double salario = 1289.50;
 
-			//Saida de dados	
+			//Saida de dados
 
 			Console.Write("Nome = " + nome);
 			Console.Write("\nIdade = " + idade);
