@@ -1,6 +1,6 @@
 using System;
 
-namespace MeuProjeto {
+namespace OlaMundo{
 
 	class Program {
 
