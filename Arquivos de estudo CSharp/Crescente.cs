@@ -6,25 +6,24 @@ namespace HelloWold;
 
 public static class Program
 {
-       public static void Main()
-       {
-              int i, n1, n2;
+	public static void Main() {
+		int i,n1,n2;
 
-              do{
+		do {
 
-                     Console.Write("Digite um numero : ");
-                     n1 = int.Parse(Console.ReadLine());
+			Console.Write("Digite um numero : ");
+			n1 = int.Parse(Console.ReadLine());
 
-                     Console.Write("Digite um numero : ");
-                     n2 = int.Parse(Console.ReadLine());
-                     
-                     if(n1>n2){
-                            Console.WriteLine("DECRESCENTE!");
-                     }else if(n1<n2){
-                            Console.WriteLine("CRESCENTE!");
-                     }
+			Console.Write("Digite um numero : ");
+			n2 = int.Parse(Console.ReadLine());
 
-              } while (n1!=n2);
-              
-       }
+			if (n1 > n2) {
+				Console.WriteLine("DECRESCENTE!");
+			} else if (n1 < n2) {
+				Console.WriteLine("CRESCENTE!");
+			}
+
+		} while (n1 != n2);
+
+	}
 }
