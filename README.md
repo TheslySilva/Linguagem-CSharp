@@ -1,6 +1,10 @@
-# Historia C#
+# Historia do C#
+
+![C#](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwdeJXSa_SdAEO0Ta-t_ttJa_guAzqfqZmQ&usqp=CAU)
 
 O C# (pronunciado "C sharp") é uma linguagem de programação desenvolvida pela Microsoft no início dos anos 2000. Sua história está intimamente ligada ao desenvolvimento da plataforma .NET da Microsoft.
+
+![.NET](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgagGZoyrCHQR7xX08Rv7N82RGhsrt8Dx46w&usqp=CAU)
 
 ### Desenvolvimento Inicial:
 
@@ -30,6 +34,11 @@ O C# ganhou uma base de desenvolvedores sólida e uma comunidade ativa. Ele é a
 
 A Microsoft tornou o .NET Core de código aberto e multiplataforma, o que atraiu ainda mais desenvolvedores e empresas para adotarem o C# e o ecossistema .NET.
 
+### Jogos feitos com C# :
+
+![Hearthstone](https://upload.wikimedia.org/wikipedia/pt/8/8d/HearthStone_logo_2016.png)
+![Escape from Tarkov](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtyhKzg7EbdwlT5SP-hePb3d2_e-lbwvcgg&usqp=CAU)
+![Cities: Skylines](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MuG1kikNxk59FRDUppNfJQSJVVrkwRqmzQ&usqp=CAU)
 ## Resumo :
 
 Em resumo, o C# é uma linguagem de programação versátil e poderosa desenvolvida pela Microsoft, que desempenhou um papel fundamental na criação da plataforma .NET e é amplamente usada em uma variedade de domínios de desenvolvimento de software. Sua evolução contínua e suporte à comunidade garantem que ele continue relevante no cenário da programação.
