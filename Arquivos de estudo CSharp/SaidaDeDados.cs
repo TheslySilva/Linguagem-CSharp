@@ -1,6 +1,6 @@
 using System;
 
-namespace MeuProjeto{
+namespace SaidaDeDados {
 
 	class Program{
 
