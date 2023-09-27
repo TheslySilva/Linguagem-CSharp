@@ -3,8 +3,7 @@ using System.Globalization;
 
 namespace Idades;
 
-public static class Program
-{
+public static class Program{
 	public static void Main() {
 
 		CultureInfo CI = CultureInfo.InvariantCulture;
