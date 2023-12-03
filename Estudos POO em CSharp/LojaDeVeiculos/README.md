@@ -10,13 +10,13 @@ Os percentuais de acréscimo seguem a tabela a seguir.
 
 Quantidade de parcelas    Percentual de acréscimo sobre o preço final
 
-6    3%
-12    6%
-18    9%
-24    12%
-30    15%
-36    18%
-42    21%
-48    24%
-54    27%
-60    30%
+06  -- 3% <br>
+12  -- 6% <br>
+18  -- 9% <br>
+24  -- 12% <br>
+30  -- 15% <br>
+36  -- 18% <br>
+42  -- 21% <br>
+48  -- 24% <br>
+54  -- 27% <br>
+60  -- 30% <br>
