@@ -37,7 +37,6 @@ A Microsoft tornou o .NET Core de código aberto e multiplataforma, o que atraiu
 ### Jogos feitos com C# :
 
 ![Hearthstone](https://upload.wikimedia.org/wikipedia/pt/8/8d/HearthStone_logo_2016.png)
-![Escape from Tarkov](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtyhKzg7EbdwlT5SP-hePb3d2_e-lbwvcgg&usqp=CAU)
 ![Cities: Skylines](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MuG1kikNxk59FRDUppNfJQSJVVrkwRqmzQ&usqp=CAU)
 ## Resumo :
 
